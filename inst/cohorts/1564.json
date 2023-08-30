@@ -1,0 +1,3881 @@
+{
+  "ExpressionLimit": {"Type": "First"},
+  "CollapseSettings": {
+    "CollapseType": "ERA",
+    "EraPad": 0
+  },
+  "CensorWindow": {
+    "StartDate": null,
+    "EndDate": null
+  },
+  "ConceptSets": [
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1545958,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "83367",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "atorvastatin",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1549686,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "41127",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "fluvastatin",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1592085,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "6472",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "lovastatin",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40165636,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "861634",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "pitavastatin",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1551860,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "42463",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "pravastatin",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1510813,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "301542",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "rosuvastatin",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1539403,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "36567",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "simvastatin",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43866180,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP843775",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 4 MG/ML Oral Solution [Simvaliquid Geriasan]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43757800,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP843776",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 4 MG/ML Oral Solution [Simvaliquid Geriasan] by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43721802,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP843777",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 8 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43825542,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP770968",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "5 ML Simvastatin 4 MG/ML Oral Solution [Simvaliquid Geriasan]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43843553,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP770970",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "5 ML Simvastatin 8 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43789261,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP770972",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "5 ML Simvastatin 8 MG/ML Oral Solution [Simvaliquid Geriasan] by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43821351,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP679724",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 4 MG/ML Oral Solution [Simvaliquid Geriasan]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43857523,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP679882",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 8 MG/ML Oral Solution [Simvaliquid Geriasan]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43595910,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP843774",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43703994,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP843778",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 8 MG/ML Oral Solution [Simvaliquid Geriasan]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43595911,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP843780",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 8 MG/ML Oral Solution [Simvaliquid Geriasan] by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43627448,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP770967",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "5 ML Simvastatin 4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43681627,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP770969",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "5 ML Simvastatin 4 MG/ML Oral Solution [Simvaliquid Geriasan] by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43609431,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP770971",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "5 ML Simvastatin 8 MG/ML Oral Solution [Simvaliquid Geriasan]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43623251,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP679336",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin Oral Solution [Simvaliquid Geriasan]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41429759,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2627721",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 8 MG/ML Oral Solution [Simvaliquid Geriasan] Box of 1",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Branded Box",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41429614,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2627576",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 8 MG/ML Oral Solution [Simvaliquid Geriasan] Box of 1 by Infectopharm",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 41429968,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2627930",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 8 MG/ML Oral Solution Box of 1",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Box",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42483353,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP419763",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42479824,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP419762",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40902529,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2100491",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 8 MG/ML Oral Solution [Simvaliquid Geriasan] Box of 1",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug Box",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40865341,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2063303",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 8 MG/ML Oral Solution Box of 1",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Box",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21175395,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP292725",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML atorvastatin 2 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35776694,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2778155",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML atorvastatin 4 MG/ML Oral Solution by Drug Tariff Special Order",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21155897,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP292730",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML atorvastatin 8 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21175932,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP302251",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Pravastatin 1 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21175931,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP302246",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Pravastatin 4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35786957,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2788418",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "100 ML atorvastatin 4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35786897,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2788358",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "100 ML atorvastatin 4 MG/ML Oral Solution by Drug Tariff Special Order",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35788057,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789518",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 4 MG/ML Oral Solution by A A H",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35788058,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789519",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 4 MG/ML Oral Solution by Alliance",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35787968,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789429",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 4 MG/ML Oral Solution by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35788025,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789486",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 4 MG/ML Oral Solution by Sigma-Tau",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35787969,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789430",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 4 MG/ML Oral Solution by Waymade",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35787882,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789343",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 8 MG/ML Oral Solution by A A H",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35787883,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789344",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 8 MG/ML Oral Solution by Alliance",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35787993,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789454",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 8 MG/ML Oral Solution by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35788059,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789520",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Simvastatin 8 MG/ML Oral Solution by Waymade",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21170289,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP361681",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "atorvastatin 2 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35752668,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2754129",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "atorvastatin 4 MG/ML Oral Solution by Drug Tariff Special Order",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21145468,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP282228",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Pravastatin 4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21174957,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP282241",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Pravastatin 5 MG Injectable Solution Box of 1",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Box",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21155401,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP282226",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Pravastatin Injectable Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35864659,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP5021196",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "simvastatin 10 MG Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35864660,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP5021197",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "simvastatin 10 MG Oral Solution [Xinyouzhi]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35755480,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2756941",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 4 MG/ML Oral Solution by A A H",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35763801,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2765262",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 4 MG/ML Oral Solution by Alliance",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35759595,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2761056",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 4 MG/ML Oral Solution by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35755481,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2756942",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 4 MG/ML Oral Solution by Sigma-Tau",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35747112,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2748573",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 4 MG/ML Oral Solution by Waymade",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21143493,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP411011",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 5 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35751234,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2752695",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 8 MG/ML Oral Solution by A A H",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35742933,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2744394",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 8 MG/ML Oral Solution by Alliance",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35755497,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2756958",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 8 MG/ML Oral Solution by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35767969,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2769430",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 8 MG/ML Oral Solution by Waymade",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35865303,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP5021259",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "simvastatin Oral Solution [Xinyouzhi]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21116448,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP292721",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML atorvastatin 4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21126695,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP302255",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Pravastatin 8 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21077627,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP298289",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Simvastatin 4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21077628,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP298293",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Simvastatin 5 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21077626,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP298285",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Simvastatin 8 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21072121,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP361676",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "atorvastatin 4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21042623,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP361855",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "atorvastatin 8 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21111301,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP361512",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "atorvastatin Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21116016,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP282234",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Pravastatin 1 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21096382,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP282238",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Pravastatin 5 MG Injectable Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21076859,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP282244",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Pravastatin 8 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21037474,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP282223",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Pravastatin Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21074932,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP410993",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Simvastatin 8 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        }
+      ]},
+      "name": "[JJH] statin (PO)",
+      "id": 0
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43013024,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1364430",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "apixaban",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45892847,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1599538",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "edoxaban",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40241331,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1114195",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "rivaroxaban",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40228152,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1037042",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "dabigatran etexilate",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 45775372,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "1546356",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "dabigatran",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1310149,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "11289",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "warfarin",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Ingredient",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21156284,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299685",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 0.02 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21175784,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299690",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 0.1 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21038354,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299692",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 0.2 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21116819,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299687",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 0.3 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21038355,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299696",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 0.4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21107065,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299709",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 0.5 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21146300,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299701",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 0.6 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21107066,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299712",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 0.8 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21175783,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299683",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 0.832 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21077698,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299705",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 1 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21166047,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299714",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 2 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21028545,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP299681",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "1 ML Warfarin 5 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35787839,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789300",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Warfarin 1 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Quant Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35787989,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789450",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Warfarin 1 MG/ML Oral Solution by A A H",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35787962,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789423",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Warfarin 1 MG/ML Oral Solution by Alliance",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35787930,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789391",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Warfarin 1 MG/ML Oral Solution by DE",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35787929,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789390",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Warfarin 1 MG/ML Oral Solution by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35787880,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2789341",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "150 ML Warfarin 1 MG/ML Oral Solution by Waymade",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21134742,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267535",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 0.02 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21124844,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267634",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 0.1 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21066141,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267640",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 0.2 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21095537,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267538",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 0.3 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21105427,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267645",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 0.4 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21174174,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267666",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 0.5 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21105428,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267651",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 0.6 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21134748,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267670",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 0.8 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21134735,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267404",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 0.832 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21046557,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267656",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 1 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35750851,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2752312",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 1 MG/ML Oral Solution by A A H",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35755065,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2756526",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 1 MG/ML Oral Solution by Alliance",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35763388,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2764849",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 1 MG/ML Oral Solution by DE",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35746695,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2748156",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 1 MG/ML Oral Solution by Rosemont",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 35771842,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP2773303",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 1 MG/ML Oral Solution by Waymade",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21115242,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267672",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 2 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21105415,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267400",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 5 MG/ML Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40093130,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "374320",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "warfarin Injectable Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40093131,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "92279",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "warfarin Injectable Solution [Coumadin]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21134734,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP267396",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin Oral Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40163530,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "855308",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "warfarin sodium 2 MG/ML Injectable Solution",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 40163531,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "855310",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "warfarin sodium 2 MG/ML Injectable Solution [Coumadin]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36237050,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1171654",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "Coumadin Injectable Product",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Branded Dose Group",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44096725,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP1091356",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 5 MG Injectable Suspension",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44085289,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP1079920",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 5 MG Injectable Suspension [Coumadin]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44113327,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP1107958",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin 5 MG Injectable Suspension [Coumadin] by Bristol Myers Squibb",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Marketed Product",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36223747,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "1161789",
+            "VOCABULARY_ID": "RxNorm",
+            "CONCEPT_NAME": "warfarin Injectable Product",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "Clinical Dose Group",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44042640,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP1037271",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin Injectable Suspension",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": true,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 44056471,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "OMOP1051102",
+            "VOCABULARY_ID": "RxNorm Extension",
+            "CONCEPT_NAME": "Warfarin Injectable Suspension [Coumadin]",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Branded Drug Form",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": true
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 21600965,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "B01AA03",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "warfarin; systemic",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43534761,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "B01AF01",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "rivaroxaban; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 1123891,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "B01AF03",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "edoxaban; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43534762,
+            "STANDARD_CONCEPT": "C",
+            "CONCEPT_CODE": "B01AF02",
+            "VOCABULARY_ID": "ATC",
+            "CONCEPT_NAME": "apixaban; oral",
+            "DOMAIN_ID": "Drug",
+            "STANDARD_CONCEPT_CAPTION": "Classification",
+            "CONCEPT_CLASS_ID": "ATC 5th",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[JJH] OACs (PO)",
+      "id": 1
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42535426,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "291581000119109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute nontraumatic subdural hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 376713,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "274100004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110189,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195185009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarct due to thrombosis of precerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 443454,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "432504007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4111714,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195230003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to cerebral venous thrombosis, non-pyogenic",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4108356,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195190007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to embolism of cerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110190,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195186005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to embolism of precerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110192,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195189003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to thrombosis of cerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 381316,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "230690007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebrovascular accident",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 22350,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "51599000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Edema of larynx",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4043731,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "230692004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Infarction - precerebral",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110185,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195168007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intracerebral hemorrhage, intraventricular",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110186,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195169004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intracerebral hemorrhage, multiple localized",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 436430,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "397809001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Nontraumatic extradural hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43530674,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "142851000119103",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous cerebellar hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43530727,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "291571000119106",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous cerebral hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42539269,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "291541000119104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous hemorrhage of brain stem",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42535425,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "291531000119108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous hemorrhage of cerebral hemisphere",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42535424,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "291521000119105",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous hemorrhage of cortical intracerebral hemisphere",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42538062,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "738779002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous intracranial hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4148906,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "270907008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous subarachnoid hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432923,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "21454007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Subarachnoid hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4108952,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195155004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Subarachnoid hemorrhage from carotid siphon and bifurcation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4111708,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195160000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Subarachnoid hemorrhage from vertebral artery",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4049659,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20908003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Subcortical hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[JJH] total stroke (I60-64) for HIRA",
+      "id": 2
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 443454,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "432504007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110189,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195185009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarct due to thrombosis of precerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110190,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195186005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to embolism of precerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4043731,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "230692004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Infarction - precerebral",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110192,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195189003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to thrombosis of cerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 22350,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "51599000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Edema of larynx",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4108356,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195190007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to embolism of cerebral arteries",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 443454,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "432504007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4111714,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195230003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral infarction due to cerebral venous thrombosis, non-pyogenic",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[JJH] Ischemic stroke (I63) for HIRA",
+      "id": 3
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 432923,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "21454007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Subarachnoid hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4108952,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195155004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Subarachnoid hemorrhage from carotid siphon and bifurcation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4148906,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "270907008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous subarachnoid hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4111708,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195160000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Subarachnoid hemorrhage from vertebral artery",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 376713,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "274100004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Cerebral hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4049659,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "20908003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Subcortical hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42535425,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "291531000119108",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous hemorrhage of cerebral hemisphere",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42535424,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "291521000119105",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous hemorrhage of cortical intracerebral hemisphere",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42539269,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "291541000119104",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous hemorrhage of brain stem",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43530674,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "142851000119103",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous cerebellar hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110185,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195168007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intracerebral hemorrhage, intraventricular",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4110186,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195169004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Intracerebral hemorrhage, multiple localized",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42538062,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "738779002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous intracranial hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42535426,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "291581000119109",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute nontraumatic subdural hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 436430,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "397809001",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Nontraumatic extradural hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 43530727,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "291571000119106",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Spontaneous cerebral hemorrhage",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[JJH] Hemorrhagic stroke (I60-62) for HIRA",
+      "id": 4
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 42536547,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "735474009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Ischemia of kidney",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 440417,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "59282003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Pulmonary embolism",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 312927,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "49584005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Acute cor pulmonale",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 312337,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "266262004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Arterial embolus and thrombosis",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 198446,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "266263009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Embolism and thrombosis of the abdominal aorta",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4170620,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "274101000",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Aortic thromboembolism",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 314965,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195318006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Embolism and thrombosis of an arm or leg artery",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4145867,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "307221007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Venous occlusion",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 196715,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "82385007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Budd-Chiari syndrome",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 439838,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "31268005",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Thrombophlebitis migrans",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 435565,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195437003",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Embolism and thrombosis of the vena cava",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 193512,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "195438008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Embolism and thrombosis of the renal vein",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4234997,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "90507008",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Disorder of vein",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[JJH] systemic embolism for HIRA",
+      "id": 5
+    },
+    {
+      "expression": {"items": [{
+        "isExcluded": false,
+        "concept": {
+          "INVALID_REASON_CAPTION": "Valid",
+          "CONCEPT_ID": 373503,
+          "STANDARD_CONCEPT": "S",
+          "CONCEPT_CODE": "266257000",
+          "VOCABULARY_ID": "SNOMED",
+          "CONCEPT_NAME": "Transient cerebral ischemia",
+          "DOMAIN_ID": "Condition",
+          "STANDARD_CONCEPT_CAPTION": "Standard",
+          "CONCEPT_CLASS_ID": "Clinical Finding",
+          "INVALID_REASON": "V"
+        },
+        "includeMapped": false,
+        "includeDescendants": false
+      }]},
+      "name": "[JJH] TIA (G45.9) for HIRA",
+      "id": 6
+    },
+    {
+      "expression": {"items": [
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4068155,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "17366009",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Atrial arrhythmia",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36712986,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "15964901000119107",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Atypical atrial flutter",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4141360,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "426749004",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Chronic atrial fibrillation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4154290,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "282825002",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Paroxysmal atrial fibrillation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 4232697,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "440059007",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Persistent atrial fibrillation",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        },
+        {
+          "isExcluded": false,
+          "concept": {
+            "INVALID_REASON_CAPTION": "Valid",
+            "CONCEPT_ID": 36714994,
+            "STANDARD_CONCEPT": "S",
+            "CONCEPT_CODE": "720448006",
+            "VOCABULARY_ID": "SNOMED",
+            "CONCEPT_NAME": "Typical atrial flutter",
+            "DOMAIN_ID": "Condition",
+            "STANDARD_CONCEPT_CAPTION": "Standard",
+            "CONCEPT_CLASS_ID": "Clinical Finding",
+            "INVALID_REASON": "V"
+          },
+          "includeMapped": false,
+          "includeDescendants": false
+        }
+      ]},
+      "name": "[JJH] AF for HIRA (I48-484, I489)",
+      "id": 7
+    }
+  ],
+  "EndStrategy": {"CustomEra": {
+    "DrugCodesetId": 1,
+    "DaysSupplyOverride": null,
+    "GapDays": 90,
+    "Offset": 0
+  }},
+  "cdmVersionRange": ">=5.0.0",
+  "CensoringCriteria": [{"DrugExposure": {
+    "OccurrenceEndDate": null,
+    "CorrelatedCriteria": null,
+    "DrugSourceConcept": null,
+    "CodesetId": 0,
+    "DrugTypeExclude": false,
+    "Quantity": null,
+    "DrugType": null,
+    "ProviderSpecialty": null,
+    "EffectiveDrugDose": null,
+    "Gender": null,
+    "DaysSupply": null,
+    "DoseUnit": null,
+    "VisitType": null,
+    "Refills": null,
+    "First": null,
+    "OccurrenceStartDate": null,
+    "RouteConcept": null,
+    "StopReason": null,
+    "LotNumber": null,
+    "Age": null
+  }}],
+  "QualifiedLimit": {"Type": "First"},
+  "InclusionRules": [
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": true,
+            "Start": {
+              "Days": 90,
+              "Coeff": -1
+            },
+            "End": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"ConditionOccurrence": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "ConditionTypeExclude": false,
+            "CodesetId": 7,
+            "ProviderSpecialty": null,
+            "Gender": null,
+            "VisitType": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "ConditionType": null,
+            "ConditionSourceConcept": null,
+            "ConditionStatus": null,
+            "StopReason": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 2,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 1
+          }
+        }],
+        "Type": "ANY",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "Diagnosed AF",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": null,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 120,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 2,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "ConditionStatus": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "CountColumn": null,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": null,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 120,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 3,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "ConditionStatus": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "CountColumn": null,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": null,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": null,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 5,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "ConditionStatus": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "CountColumn": null,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": null,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 120,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 4,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "ConditionStatus": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "CountColumn": null,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          },
+          {
+            "RestrictVisit": false,
+            "StartWindow": {
+              "UseEventEnd": false,
+              "Start": {
+                "Days": null,
+                "Coeff": -1
+              },
+              "End": {
+                "Days": 120,
+                "Coeff": 1
+              },
+              "UseIndexEnd": false
+            },
+            "IgnoreObservationPeriod": false,
+            "EndWindow": null,
+            "Criteria": {"ConditionOccurrence": {
+              "OccurrenceEndDate": null,
+              "CorrelatedCriteria": null,
+              "ConditionTypeExclude": false,
+              "CodesetId": 6,
+              "ProviderSpecialty": null,
+              "Gender": null,
+              "VisitType": null,
+              "First": null,
+              "OccurrenceStartDate": null,
+              "ConditionType": null,
+              "ConditionSourceConcept": null,
+              "ConditionStatus": null,
+              "StopReason": null,
+              "Age": null
+            }},
+            "Occurrence": {
+              "Type": 0,
+              "CountColumn": null,
+              "IsDistinct": false,
+              "Count": 0
+            }
+          }
+        ],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "No primary outcome",
+      "description": null
+    },
+    {
+      "expression": {
+        "CriteriaList": [{
+          "RestrictVisit": false,
+          "StartWindow": {
+            "UseEventEnd": false,
+            "Start": {
+              "Days": 0,
+              "Coeff": 1
+            },
+            "End": {
+              "Days": null,
+              "Coeff": 1
+            },
+            "UseIndexEnd": false
+          },
+          "IgnoreObservationPeriod": false,
+          "EndWindow": null,
+          "Criteria": {"DrugExposure": {
+            "OccurrenceEndDate": null,
+            "CorrelatedCriteria": null,
+            "DrugSourceConcept": null,
+            "CodesetId": 0,
+            "DrugTypeExclude": false,
+            "Quantity": null,
+            "DrugType": null,
+            "ProviderSpecialty": null,
+            "EffectiveDrugDose": null,
+            "Gender": null,
+            "DaysSupply": null,
+            "DoseUnit": null,
+            "VisitType": null,
+            "Refills": null,
+            "First": null,
+            "OccurrenceStartDate": null,
+            "RouteConcept": null,
+            "StopReason": null,
+            "LotNumber": null,
+            "Age": null
+          }},
+          "Occurrence": {
+            "Type": 0,
+            "CountColumn": null,
+            "IsDistinct": false,
+            "Count": 0
+          }
+        }],
+        "Type": "ALL",
+        "DemographicCriteriaList": [],
+        "Groups": [],
+        "Count": null
+      },
+      "name": "No statin use",
+      "description": null
+    }
+  ],
+  "PrimaryCriteria": {
+    "CriteriaList": [{"DrugEra": {
+      "EraStartDate": null,
+      "CorrelatedCriteria": null,
+      "OccurrenceCount": null,
+      "AgeAtStart": {
+        "Op": "gte",
+        "Extent": null,
+        "Value": 18
+      },
+      "GapDays": null,
+      "CodesetId": 1,
+      "AgeAtEnd": null,
+      "First": true,
+      "Gender": null,
+      "EraLength": {
+        "Op": "gte",
+        "Extent": null,
+        "Value": 90
+      },
+      "EraEndDate": null
+    }}],
+    "PrimaryCriteriaLimit": {"Type": "First"},
+    "ObservationWindow": {
+      "PostDays": 0,
+      "PriorDays": 365
+    }
+  }
+}

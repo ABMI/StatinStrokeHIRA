@@ -1,0 +1,12 @@
+webApiCohortId,cohortId,cohortName
+1586,1586,[shee] statin new user with AF
+1587,1587,[shee] OAC new user with AF
+1174,1174,[JJH] All cause mortality
+1566,1566,[JJH] composite outcomes of stroke for HIRA
+1567,1567,[JJH] total stroke (I60-64) for HIRA
+1568,1568,[JJH] TIA for HIRA
+1569,1569,[JJH] Hemorrhagic stroke (I60-62) for HIRA
+1570,1570,[JJH] Ischemic stroke (I63)
+1571,1571,[JJH] systemic embolism for HIRA
+1565,1565,[JJH] statin new user with AF (mild criteria)
+1564,1564,[JJH] OAC new user with AF (mild criteria)
